@@ -16,68 +16,68 @@ export function fetchCourses() {
         payload: [
             {
                 id: 0,
-                title: "Up and Running with Redis",
-                description: "In this course you'll learn how to work with the efficient Redis database to manage key / value relationships.",
+                title: "Swim Lessons",
+                description: "You will have the impossible task of waking up at 9am! it is a very hard thing for 10 year olds. especially in the summer.",
                 enrolled: false
             },
             {
                 id: 1,
-                title: "HTML/CSS Bootcamp",
-                description: "Learn HTML5 and CSS3 from scratch, starting with the basics and finishing by building five projects from scratch.",
+                title: "Watch TV",
+                description: "This is something you probably shouldn't do for a long time but I know, and you know that you'll be here for a while.",
                 enrolled: false
             },
             {
                 id: 2,
-                title: "UX for Developers",
-                description: "This User Experience (UX) course examines how to develop a system for approaching application development and enhancing the experience for users.",
+                title: "Eat Food/Candy",
+                description: "Have you ever thought of eating a vegatable?",
                 enrolled: false
             },
             {
                 id: 3,
-                title: 'Problem Solving',
-                description: 'In this course you\'ll take a practical look at how to build a large number of software applications and features. By taking a systems analysis and design approach to development and leveraging UML, you\'ll be able to model systems and prepare to build the projects.',
+                title: 'Workbook',
+                description: "We all know you don't want to do any part of that book, but guess what? You have too, AAhhaahahaHahAhaha!!",
                 enrolled: false
             },
             {
                 id: 4,
-                title: 'UML for Developers',
-                description: 'This course teaches the foundational building blocks of utilizing UML in order to model software systems.',
+                title: "Outside Time Oof",
+                description: 'You should probably get some sun. You could use a heat stroke',
                 enrolled: false
             },
             {
                 id: 5,
-                title: 'Algorithm Bootcamp',
-                description: 'Algorithm Bootcamp - In this in depth course you will learn how to work with algorithms, including: how to measure their performance, understanding data structures, and implementing all of the algorithms in code.',
+                title: 'Be Annoying',
+                description: 'For everyones sake please do not a this to your schedule! We know you do it everyday anyway but please :)',
                 enrolled: false
             },
             {
                 id: 6,
-                title: 'Introduction to Programming with Python',
-                description: 'This course teaches the fundamentals of programming and utilizes the Python programming language.',
+                title: 'Cringy Youtube Time',
+                description: 'Watching adults do stupid challenges that seem pointless and are pointless. Are these videos entertaining? No...',
                 enrolled: false
             },
             {
                 id: 7,
-                title: 'TypeScript Development',
-                description: 'This course gives an introduction to the TypeScript programming language, including walking through the: syntax, best practices, and practical systems for building TypeScript programs.',
+                title: '"Im Bored"',
+                description: 'You seem to be bored half the day so this is a big part of your schedule!',
                 enrolled: false
             },
             {
                 id: 8,
-                title: 'Introduction to Javascript',
-                description: 'This course gives an introduction to the JavaScript programming language, including the basic syntax, how to work with collections, and input/output.',
+                title: 'Free Time',
+                description: 'Use this time to do anything your heart desires! Unfortunately that includes annoying Sean :(',
                 enrolled: false
             },
             {
                 id: 9,
-                title: 'Dissecting Rails 5',
-                description: 'Learn how to build powerful applications using this comprehensive guide to the Ruby on Rails web framework.',
+                title: 'Learn Quantum Physics',
+                description: 'Quantum theory is the theoretical basis of modern physics that explains the nature and behavior of matter and energy on the atomic and subatomic level. The nature and behavior of matter and energy at that level is sometimes referred to as quantum physics and quantum mechanics.',
                 enrolled: false
             },
             {
                 id: 10,
-                title: 'This is an Example of a Large Description',
-                description: 'Lorem ipsum dolor sit amet, cu dicant nostrud mediocritatem sit, graeci everti nusquam eu vix. Ut oporteat antiopam convenire sea, omittam reformidans eos an. An graeci commodo nec. Perpetua aliquando ius ad, id vis consul propriae. Ea fierent assentior vel, invidunt facilisi sit an, eu quo sumo omnis. Mei te semper principes, an mei invidunt repudiare, summo voluptatum cu eos. In vis dolor ignota, mea erat prompta intellegebat et. Vis ne duis altera dissentiet, id tale fierent mandamus duo, ut suas oportere pri. Cu graeci insolens explicari has. Ad pri doctus feugiat, dicant nostro facilis usu ad.',
+                title: 'Sleeply Time',
+                description: "This includes getting ready for bed, something you don't do very often(because you usually just pass out somewhere). So get up, brush those beaver teeth and sleep well!",
                 enrolled: false
             }
         ]

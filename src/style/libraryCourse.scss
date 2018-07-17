@@ -6,6 +6,7 @@
     align-items: center;
     z-index: 50;
 
+
     margin-right: 10px;
     
     &__title-check {
@@ -61,7 +62,7 @@
     }
 
     &__icon {
-        color: $color-blue;
+        color: $color-grace;
         padding-left: 16px;
         font-size: 24px;
     }
@@ -70,7 +71,7 @@
         margin-top: 19px;
         border-top: 1px solid #F2F2F2;
         label {
-            color: $color-blue;
+            color: $color-grace;
             font-family: $font-alegreya;
             font-size: 16px;
             font-weight: bold;

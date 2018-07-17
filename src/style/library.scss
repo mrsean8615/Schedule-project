@@ -18,19 +18,20 @@
         padding-left: 5%;
         padding-bottom: 76px;
         overflow-y: scroll;
+        
 
         height: 100%;
         width: 100%;
         
         position: absolute;
-        right: -10px;
+        right: -20px;
 
         &__title {
-            color: $color-blue;
+            color: $color-grace;
             font-family: $font-alegreya;
             font-size: 34px;
             font-weight: bold;
-            border-left: 2px solid $color-blue;
+            border-left: 2px solid $color-grace;
             padding: 20px 40px;
         }
     }

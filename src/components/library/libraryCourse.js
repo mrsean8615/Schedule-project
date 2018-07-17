@@ -54,7 +54,7 @@ class LibraryCourse extends Component {
           height={this.state.height}
         >
           <div className="library-course__description">
-            <label>Course Description</label>
+            <label>Overview</label>
             <p>{this.props.description}</p>
           </div>
         </AnimateHeight>

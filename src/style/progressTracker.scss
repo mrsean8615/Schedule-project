@@ -1,21 +1,29 @@
 .progress-tracker {
     grid-row: progress-s/progress-e;
-    align-self: end;
+    align-self: baseline;
 
     display: grid;
     grid-template-rows: 1fr;
     grid-template-columns: 33px [title-s] 1fr [title-e percentage-s] 76px [percentage-e];
 
     align-items: center;
+    grid-row: 6/7;
+    position: fixed;
+    bottom: 0;
+    
 
     &__title {
         grid-column: title-s/title-e;
-        grid-row: 1/2;   
+        grid-row: 1/2;
+         
     }
     &__percentage {
         grid-column: percentage-s/percentage-e;
         grid-row: 1/2;
         justify-self: center;
+        right: 25px;
+        bottom: 25px;
+        position: fixed;
     }
 }
 
