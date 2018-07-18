@@ -47,7 +47,7 @@ export function fetchCourses() {
             {
                 id: 5,
                 title: 'Be Annoying',
-                description: 'For everyones sake please do not a this to your schedule! We know you do it everyday anyway but please :)',
+                description: 'For everyones sake please do not add this to your schedule! We know you do it everyday anyway but please :)',
                 enrolled: false
             },
             {
@@ -71,7 +71,7 @@ export function fetchCourses() {
             {
                 id: 9,
                 title: 'Learn Quantum Physics',
-                description: 'Quantum theory is the theoretical basis of modern physics that explains the nature and behavior of matter and energy on the atomic and subatomic level. The nature and behavior of matter and energy at that level is sometimes referred to as quantum physics and quantum mechanics.',
+                description: 'This is totally the easiest thing to understand, so heres a brief overview. Quantum theory is the theoretical basis of modern physics that explains the nature and behavior of matter and energy on the atomic and subatomic level. The nature and behavior of matter and energy at that level is sometimes referred to as quantum physics and quantum mechanics. Good Luck!',
                 enrolled: false
             },
             {
